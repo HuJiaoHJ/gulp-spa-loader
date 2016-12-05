@@ -1,0 +1,30 @@
+{
+  "name": "gulp-spa-loader",
+  "version": "1.0.0",
+  "description": "a plugins to load dependences in htmls (used in SPA)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HuJiaoHJ/gulp-spa-loader.git"
+  },
+  "keywords": [
+    "SPA",
+    "load",
+    "dependences",
+    "html"
+  ],
+  "author": "hujiao",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HuJiaoHJ/gulp-spa-loader/issues"
+  },
+  "homepage": "https://github.com/HuJiaoHJ/gulp-spa-loader#readme",
+  "dependencies": {
+    "object-assign": "^4.1.0",
+    "path": "^0.12.7",
+    "through2": "^2.0.3"
+  }
+}
