@@ -1,6 +1,6 @@
 {
   "name": "gulp-spa-loader",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "a plugins to load dependences in htmls (used in SPA)",
   "main": "index.js",
   "scripts": {
