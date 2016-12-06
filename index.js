@@ -80,7 +80,7 @@ module.exports = function (opts) {
 
             file.contents = new Buffer(chunk);
         }
-
+        delete require.cache[path.resolve(options.map)];
         cb(null, file);
     });
 };
